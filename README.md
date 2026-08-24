@@ -1,2 +1,4 @@
 # My-first-folder
-This is my first git repository
+This is my first git repository.
+<br>
+Author - Manoneet sharma
